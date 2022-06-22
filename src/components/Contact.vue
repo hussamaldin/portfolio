@@ -6,7 +6,7 @@
           </div>
           <div class="w-[10%] flex flex-row items-center justify-between justify-center">
               <div class="w-[20%]"><a><i class="fa fa-undo text-2xl text-violet-600 hover:text-violet-700 cursor-pointer"></i></a></div>
-              <div class="w-[20%]"><a><i class="fa fa-close text-2xl text-violet-600 hover:text-violet-700 cursor-pointer"></i></a></div>
+              <div class="w-[20%]"><a href="/"><i class="fa fa-close text-2xl text-violet-600 hover:text-violet-700 cursor-pointer"></i></a></div>
           </div>
       </div>
   </div>

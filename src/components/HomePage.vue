@@ -6,7 +6,7 @@
           </div>
           <div class="w-[20%] flex flex-row items-center justify-between justify-center">
               <div class="w-[48%] duration-500 cursor-pointer hover:text-violet-700 text-lg text-center"><a>Menetorship</a></div>
-              <div class="w-[48%] duration-500 border-2 cursor-pointer border-violet-700 text-violet-700 hover:text-gray-50 hover:bg-violet-700 p-2 text-lg rounded-full text-center"><a>Say Hello</a></div>
+              <div class="w-[48%] duration-500 border-2 cursor-pointer border-violet-700 text-violet-700 hover:text-gray-50 hover:bg-violet-700 p-2 text-lg rounded-full text-center"><a href="/contact">Say Hello</a></div>
           </div>
       </div>
   </div>
