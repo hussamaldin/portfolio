@@ -32,45 +32,45 @@
                        <div class="text-center text-3xl font-bold">My Skilles</div>
                    </div>
                    <div class="flex flex-row flex-wrap justify-center">
-                       <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__infinite">
+                       <div class="w-[13%] h-[80px] m-4  animate-[jump-ani_5s_1s_linear_infinite]">
                            <div class="w-full h-[70px] rounded-xl shadow-2xl border border-gray-100"><img :src="lara" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Laravel</div>
                        </div>
-                                              <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__delay-1s animate__infinite">
+                                              <div class="w-[13%] h-[80px] m-[30px]  animate-[jump-ani_5s_2s_linear_infinite]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="jav" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Javascript</div>
                        </div>
-                                              <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__delay-2s animate__infinite">
+                                              <div class="w-[13%] h-[80px] m-[30px] animate-[jump-ani_5s_3s_linear_infinite] ">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="mysql" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Mysql</div>
                        </div>
-                                              <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__delay-3s animate__infinite">
+                                              <div class="w-[13%] h-[80px] m-[30px] animate-[jump-ani_5s_4s_linear_infinite]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="php" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">PHP</div>
                        </div>
-                                              <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__delay-4s animate__infinite">
+                                              <div class="w-[13%] h-[80px] m-[30px] animate-[jump-ani_5s_5s_linear_infinite]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="vue" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Vue</div>
                        </div>
-                                              <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__delay-5s animate__infinite">
+                                              <div class="w-[13%] h-[80px] m-[30px] animate-[jump-ani_5s_6s_linear_infinite]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="html" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Html</div>
                        </div>
-                                             <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__delay-6s animate__infinite">
+                                             <div class="w-[13%] h-[80px] m-[30px] animate-[jump-ani_5s_7s_linear_infinite]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="css" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Css</div>
 
                        </div>
-                                              <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__delay-7s animate__infinite">
+                                              <div class="w-[13%] h-[80px] m-[30px] animate-[jump-ani_5s_8s_linear_infinite]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="tail" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">TailwindCSS</div>
                        </div>
-                                             <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__delay-8s animate__infinite">
+                                             <div class="w-[13%] h-[80px] m-[30px] animate-[jump-ani_5s_9s_linear_infinite]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="api" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">API</div>
 
                        </div>
-                                              <div class="w-[13%] h-[80px] m-4 animate__animated animate__pulse animate__slow animate__delay-9s animate__infinite">
+                                              <div class="w-[13%] h-[80px] m-[30px] animate-[jump-ani_5s_10s_linear_infinite]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="json" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">JSON</div>
                        </div>

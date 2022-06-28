@@ -2,7 +2,7 @@
 const colors = require("tailwindcss/colors");
 module.exports = {
   mode: "jit",
-  purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
+  purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}",'./node_modules/tw-elements/dist/js/**/*.js'],
   darkMode: false, // or 'media' or 'class'
   theme: {
     screens: {
@@ -34,14 +34,24 @@ module.exports = {
           "0%": { transform: "rotate(0deg)" },
           "100%": { transform: "rotate(360deg)" },
         },
+        "jump-ani": {
+          "0%": { transform: "translateY(0)" },
+          "25%": { transform: "translateY(24%)" },
+          "50%": { transform: "translateY(0)" },
+          "75%": { transform: "translateY(-24%)" },
+          "100%": { transform: "translateY(0)" },
+        },
       },
       animation: {
         "spin-slow": "spin-slow 10s linear infinite",
+        
       },
     },
   },
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('tw-elements/dist/plugin')
+  ],
 };
