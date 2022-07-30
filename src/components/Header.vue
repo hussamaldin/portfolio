@@ -1,7 +1,7 @@
 <template>
   <div class="w-full h-[150px]">
       <div class="w-full h-full px-[60px] flex flex-row items-center justify-between">
-          <div class="w-[10%] px-[10px] justify-center">
+          <div class="xl:w-[10%] ph:w-[40%] px-[10px] justify-center">
               <img :src="img1" class="w-[50%] h-[50%]">
           </div>
           <div class="w-[20%] flex flex-row items-center justify-between justify-center">
