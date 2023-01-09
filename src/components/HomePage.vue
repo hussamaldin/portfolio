@@ -44,45 +44,45 @@
                        <div class="text-center text-3xl font-bold">My Skilles</div>
                    </div>
                    <div class="flex flex-row flex-wrap justify-center">
-                       <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[15px]  animate-[jump-ani_5s_1s_linear_infinite]">
+                       <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[25px]  ">
                            <div class="w-full h-[70px] rounded-xl shadow-2xl border border-gray-100"><img :src="lara" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Laravel</div>
                        </div>
-                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[15px]  animate-[jump-ani_5s_2s_linear_infinite]">
+                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[25px]  ">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="jav" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Javascript</div>
                        </div>
-                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[15px] animate-[jump-ani_5s_3s_linear_infinite] ">
+                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[25px] ">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="mysql" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Mysql</div>
                        </div>
-                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[15px] animate-[jump-ani_5s_4s_linear_infinite]">
+                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[25px]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="php" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">PHP</div>
                        </div>
-                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[15px] animate-[jump-ani_5s_5s_linear_infinite]">
+                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[25px]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="vue" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Vue</div>
                        </div>
-                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[15px] animate-[jump-ani_5s_6s_linear_infinite]">
+                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[25px]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="html" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Html</div>
                        </div>
-                                             <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px]  ph:m-[15px] animate-[jump-ani_5s_7s_linear_infinite]">
+                                             <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px]  ph:m-[25px]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="css" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">Css</div>
 
                        </div>
-                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[15px] animate-[jump-ani_5s_8s_linear_infinite]">
+                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[25px]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="tail" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">TailwindCSS</div>
                        </div>
-                                             <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[15px] animate-[jump-ani_5s_9s_linear_infinite]">
+                                             <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[25px]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="api" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">API</div>
 
                        </div>
-                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[15px] animate-[jump-ani_5s_10s_linear_infinite]">
+                                              <div class="lg:w-[13%] ph:w-[35%] lg:h-[80px] m-[30px] ph:m-[25px]">
                            <div class="w-full h-[80px] rounded-xl shadow-2xl border border-gray-100"><img :src="json" class="w-full h-full rounded-xl"></div>
                            <div class="w-full text-center text-xl font-bold">JSON</div>
                        </div>
@@ -97,17 +97,12 @@
                        <div class="text-center text-2xl">Here are a few design projects I've worked on recently. Want to see more? <a herf="#" class="font-bold text-violet-600 hover:text-violet-700 cursor-pointer">Email me.</a></div>
                    </div>
                    <div class="flex flex-row justify-between flex-wrap my-[100px] ">
-                       <div class="lg:w-[45%] ph:w-full m-4 h-[280px] relative border rounded-xl border-gray-300 group hover:scale-110 duration-500 shadow-xl">
-                           <a href="https://oneforshop.vercel.app/"><div class="bg-gray-800 rounded-xl w-full absolute duration-500 top-0 h-full flex justify-center items-center opacity-0 group-hover:opacity-100">
-<div class="outline border-none outline-violet-700 hover:bg-violet-700 duration-500 rounded-full text-gray-50 h-[50px] flex justify-center items-center cursor-pointer w-[175px]"><div class="text-xl font-bold">Visit Website ></div></div>
-                           </div></a>
-                           <img :src="on" class="w-full h-full rounded-xl">
-                       </div>
+
                         <div class="lg:w-[45%] ph:w-full m-4 h-[280px] relative border rounded-xl border-gray-300 group hover:scale-110 duration-500 shadow-xl">
-                            <a href="https://penv.vercel.app/"> <div class="bg-gray-800 rounded-xl w-full absolute duration-500 top-0 h-full flex justify-center items-center opacity-0 group-hover:opacity-100">
+                            <a href="https://vue-app-tan-nine.vercel.app/"> <div class="bg-gray-800 rounded-xl w-full absolute duration-500 top-0 h-full flex justify-center items-center opacity-0 group-hover:opacity-100">
 <div class="outline border-none outline-violet-700 hover:bg-violet-700 duration-500 rounded-full text-gray-50 h-[50px] flex justify-center items-center cursor-pointer w-[175px]"><div class="text-xl font-bold">Visit Website ></div></div>
                            </div></a>
-                           <img :src="penv" class="w-full h-full rounded-xl">
+                           <img :src="biz" class="w-full h-full rounded-xl">
                        </div>
                         <div class="lg:w-[45%] ph:w-full m-4 h-[280px] relative border rounded-xl border-gray-300 group hover:scale-110 duration-500 shadow-xl">
                                                  <a href="https://top-mercury.vercel.app/">  <div class="bg-gray-800 rounded-xl w-full absolute duration-500 top-0 h-full flex justify-center items-center opacity-0 group-hover:opacity-100">
@@ -146,7 +141,7 @@ data(){
         sync:require('../assets/sync.png'),
         ssyp:require('../assets/ssyp.png'),
         top:require('../assets/top.png'),
-        penv:require('../assets/penv.png'),
+        biz:require('../assets/biz.png'),
         lara:require('../assets/laravel.jpg'),
         mysql:require('../assets/mysql.jpg'),
         php:require('../assets/php.jpg'),
